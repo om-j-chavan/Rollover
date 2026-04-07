@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+
+# env
+.env*
+
+# misc
+.DS_Store
+*.pem
+.playwright-mcp/
+.vscode/
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+
+# typescript
+*.tsbuildinfo
+
+# personal files
+*.md
+!README.md
+resume.html
+Om_Chavan_Resume.pdf
